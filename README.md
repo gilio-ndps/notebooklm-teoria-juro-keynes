@@ -1,4 +1,4 @@
-# Teroai do Juro de John Maynard Keynes - NotebookLM
+# Teoria do Juro de John Maynard Keynes - NotebookLM
 Notebook criado com o objetivo de construir um segundo cerébro que possibilite o aprendizado da teoria do juro de John Maynard Keynes
 
 🔗Acesso ao notebook: https://notebooklm.google.com/notebook/3ec35737-0560-4ede-8bb5-da9cf9aa2a02
